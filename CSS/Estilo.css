@@ -72,7 +72,7 @@ section:nth-child(6){
       flex-direction: column;
    }
    section > img{
-      height: 35%;
+      height: 30%;
    }
 
    .contenedor-texto{
